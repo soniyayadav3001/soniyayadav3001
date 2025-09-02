@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/soniyayadav3001/soniyayadav3001/blob/main/image.png" alt="Banner" width="100%">
+  <img src="https://github.com/soniyayadav3001/soniyayadav3001/blob/main/banner.png" alt="Banner" width="100%">
 </p>
 
 
