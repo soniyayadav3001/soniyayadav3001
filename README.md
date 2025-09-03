@@ -59,7 +59,7 @@ With hands-on experience in **data wrangling, visualization, predictive modeling
 | [**Diwali Sales Analysis**](#) | Analyzed 1000+ customer transactions to find spending trends & profitable segments. | Python, Pandas, Seaborn |
 | [**Emotion Detection with CNN**](#) | Real-time facial emotion recognition using CNN + OpenCV. | Python, Keras, OpenCV |
 | [**Student Mental Health Risk Scorer**](#) | Streamlit app that calculates a simple mental health risk score based on student data & conditions. | Python, Streamlit |
-| [**SONAR Rock vs Mine Prediction**](#) | Predicts whether sonar returns are from mines or rocks. | Python, Scikit-learn |
+| [**SONAR Rock vs Mine Prediction**](https://github.com/soniyayadav3001/SONAR-Rock-vs-Mine-Prediction-with-Python) | Predicts whether sonar returns are from mines or rocks. | Python, Scikit-learn |
 
 ---
 
