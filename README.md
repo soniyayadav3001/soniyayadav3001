@@ -9,7 +9,7 @@
          height="45"
          width="45"/> I'm Soniya Yadav </h1>
          
-<h3 align="center">Data Analyst • Machine Learning Enthusiast • Storyteller with Data</h3>
+<h3 align="center">Aspiring Data Analyst • Machine Learning Enthusiast • Storyteller with Data</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVpdDhubDBjZ20yZ204NWRrbXBwd3djcjdqbXRxZnMxbXB5dGp4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
 
 <p align="left"> 
