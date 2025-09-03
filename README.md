@@ -55,7 +55,7 @@ With hands-on experience in **data wrangling, visualization, predictive modeling
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**Ultra Translato**](#) | Multilingual text & speech translator with 80+ languages, real-time transcription & dubbing. | Python, Streamlit, Googletrans, gTTS, SpeechRecognition |
-| [**HR Analytics Dashboard**](#) | Dashboard to analyze attrition by age, gender & department; boosted HR efficiency by 40%. | Power BI, Excel, DAX |
+| [**Employee Attrition Dashboard**](https://github.com/soniyayadav3001/Employee-Attrition-Dashboard) | Dashboard to analyze attrition by age, gender & department; boosted HR efficiency by 40%. | Power BI, Excel, DAX |
 | [**Diwali Sales Analysis**](#) | Analyzed 1000+ customer transactions to find spending trends & profitable segments. | Python, Pandas, Seaborn |
 | [**Emotion Detection with CNN**](#) | Real-time facial emotion recognition using CNN + OpenCV. | Python, Keras, OpenCV |
 | [**Student Mental Health Risk Scorer**](#) | Streamlit app that calculates a simple mental health risk score based on student data & conditions. | Python, Streamlit |
