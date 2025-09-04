@@ -2,6 +2,11 @@
 <p align="center">
   <img src="https://github.com/soniyayadav3001/soniyayadav3001/blob/main/banner.png" alt="Banner" width="100%">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F700&center=true&width=800&height=60&lines=Welcome+to+My+GitHub+Profile!;AI+%26+Machine+Learning+Enthusiast;Data+Analytics+Practitioner;Python+|+SQL+|+PowerBI" />
+</p>
+
+
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
