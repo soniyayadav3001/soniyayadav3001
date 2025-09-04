@@ -38,8 +38,11 @@ With hands-on experience in **data wrangling, visualization, predictive modeling
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40"/> 
+  <img src="https://matplotlib.org/_static/images/logo2.svg" height="40"/>
+  <img src="https://numpy.org/images/logo.svg" height="40"/>
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40"/>
 </p>
 
 ### **Visualization & BI Tools**
@@ -48,9 +51,10 @@ With hands-on experience in **data wrangling, visualization, predictive modeling
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40"/> 
 </p>
 
-### **Databases & Cloud**
+### **Databases & Version Control**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,gcp" />
+  <img src="https://skillicons.dev/icons?i=git,github" height="40"/>
 </p>
 
 ### **Development Stack**
