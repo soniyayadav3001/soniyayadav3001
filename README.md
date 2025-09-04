@@ -50,7 +50,7 @@ With hands-on experience in **data wrangling, visualization, predictive modeling
 
 ### **Databases & Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,gcp,github" />
+  <img src="https://skillicons.dev/icons?i=mysql,gcp" />
 </p>
 
 ### **Development Stack**
