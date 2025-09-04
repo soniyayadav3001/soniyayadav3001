@@ -54,7 +54,7 @@ With hands-on experience in **data wrangling, visualization, predictive modeling
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**Ultra Translato**](#) | Multilingual text & speech translator with 80+ languages, real-time transcription & dubbing. | Python, Streamlit, Googletrans, gTTS, SpeechRecognition |
+| [**Ultra Translato**](https://github.com/soniyayadav3001/UltraTranslato) | Multilingual text & speech translator with 80+ languages, real-time transcription & dubbing. | Python, Streamlit, Googletrans, gTTS, SpeechRecognition |
 | [**Face Mask Detection**](https://github.com/soniyayadav3001/Face-Mask-Detection) | Real-time face mask detection system using CNN & MediaPipe. | Python, TensorFlow/Keras, OpenCV, MediaPipe |
 | [**Employee Attrition Dashboard**](https://github.com/soniyayadav3001/Employee-Attrition-Dashboard) | Dashboard to analyze attrition by age, gender & department; boosted HR efficiency by 40%. | Power BI, Excel, DAX |
 | [**Diwali Sales Analysis**](https://github.com/soniyayadav3001/Diwali-Sales-Project) | Analyzed 1000+ customer transactions to find spending trends & profitable segments. | Python, Pandas, Matplotlib, Seaborn |
