@@ -38,7 +38,6 @@ With hands-on experience in **data wrangling, visualization, predictive modeling
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40"/> 
-  <img src="https://matplotlib.org/_static/images/logo2.svg" height="40"/>
   <img src="https://numpy.org/images/logo.svg" height="40"/>
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
