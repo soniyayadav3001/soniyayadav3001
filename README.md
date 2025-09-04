@@ -44,8 +44,8 @@ With hands-on experience in **data wrangling, visualization, predictive modeling
 
 ### **Visualization & BI Tools**
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=d3" />
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40"/> 
 </p>
 
 ### **Databases & Cloud**
