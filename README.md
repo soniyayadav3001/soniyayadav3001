@@ -34,18 +34,28 @@ With hands-on experience in **data wrangling, visualization, predictive modeling
   <img src="https://skillicons.dev/icons?i=sql" />
 </p>
 
-### **Data Analytics & Visualization**
+### **Data Science & Machine Learning**
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40"/> 
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
 </p>
 
-### **Tools & Cloud**
+### **Visualization & BI Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=github,gcp" />
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=d3" />
+</p>
+
+### **Databases & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,gcp,github" />
+</p>
+
+### **Development Stack**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
