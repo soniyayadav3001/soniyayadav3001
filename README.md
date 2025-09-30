@@ -68,7 +68,7 @@ With hands-on experience in **data wrangling, visualization, predictive modeling
 |---------|-------------|------------|
 | [**Ultra Translato**](https://github.com/soniyayadav3001/UltraTranslato) | Multilingual text & speech translator with 80+ languages, real-time transcription & dubbing. | Python, Streamlit, Googletrans, gTTS, SpeechRecognition |
 | [**Face Mask Detection**](https://github.com/soniyayadav3001/Face-Mask-Detection) | Real-time face mask detection system using CNN & MediaPipe. | Python, TensorFlow/Keras, OpenCV, MediaPipe |
-| [**Employee Attrition Dashboard**](https://github.com/soniyayadav3001/Employee-Attrition-Dashboard) | Dashboard to analyze attrition by age, gender & department; boosted HR efficiency by 40%. | Power BI, Excel, DAX |
+| [**Employee Attrition Dashboard**](https://github.com/soniyayadav3001/Employee-Attrition-Dashboard) | Dashboard to analyze attrition by age, gender & department; boosted HR efficiency. | Power BI, Excel, DAX |
 | [**Diwali Sales Analysis**](https://github.com/soniyayadav3001/Diwali-Sales-Project) | Analyzed 1000+ customer transactions to find spending trends & profitable segments. | Python, Pandas, Matplotlib, Seaborn |
 | [**Student Mental Health Risk Scorer**](https://github.com/soniyayadav3001/Mental-Health-App) | Streamlit app that calculates a simple mental health risk score based on student data & conditions. | Python, Streamlit |
 | [**SONAR Rock vs Mine Prediction**](https://github.com/soniyayadav3001/SONAR-Rock-vs-Mine-Prediction-with-Python) | Predicts whether sonar returns are from mines or rocks. | Python, Scikit-learn |
